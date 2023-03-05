@@ -1,1 +1,1 @@
-require('webstack-screenshot/dist/src/server')()
+require('webstack-screenshot/dist/src/server')
